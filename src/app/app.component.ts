@@ -8,6 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'PipeDemo';
 
+  header = "custom pipes example"
+
   user = 
   {
     "name" : "john wick",
